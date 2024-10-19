@@ -1,3 +1,0 @@
-﻿  Source.cpp
-D:\my projects\Minesweeper2019\Minesweeper2019\Source.cpp(5,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Minesweeper2019.vcxproj -> D:\my projects\Minesweeper2019\Debug\Minesweeper2019.exe
